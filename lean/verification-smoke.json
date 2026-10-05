@@ -1,0 +1,20 @@
+{
+  "checked_at_utc": "2026-10-04T16:44:17.8053420Z",
+  "lean_version": "4.24.0",
+  "lean_commit": "797c613eb9b6d4ec95db23e3e00af9ac6657f24b",
+  "artifact": "PNPResearch/Basic.lean",
+  "source_sha256": "514f47c27eaf83f581c49819f266a8ac1a78a6f738385bdc049c725f59f8c8ea",
+  "command": "lake -f lakefile.core.toml env lean PNPResearch/Basic.lean",
+  "working_directory": "lean",
+  "exit_code": 0,
+  "build_command": "lake -f lakefile.core.toml build",
+  "build_exit_code": 0,
+  "theorem_names": [
+    "PNPResearch.bool_and_comm",
+    "PNPResearch.function_and_comm"
+  ],
+  "mathlib_dependency_initialized": false,
+  "mathlib_imported": false,
+  "formalization_review_required": true,
+  "scope": "Only the two specified core Boolean identities; no circuit lower bound or generated candidate is certified by this smoke record."
+}

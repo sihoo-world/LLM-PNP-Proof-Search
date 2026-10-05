@@ -1,0 +1,8 @@
+# Offline core-only smoke checking. The main lakefile.toml pins Mathlib.
+name = "PNPResearchCore"
+version = "0.1.0"
+defaultTargets = ["PNPResearch"]
+manifestFile = ".lake/core-manifest.json"
+
+[[lean_lib]]
+name = "PNPResearch"

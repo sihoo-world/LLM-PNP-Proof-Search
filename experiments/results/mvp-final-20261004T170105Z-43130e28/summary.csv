@@ -1,0 +1,5 @@
+group,total_candidates,parse_success_rate,falsification_rate,empirical_survival_rate,formal_verification_rate,revision_survival_rate,average_revisions,barrier_flag_rate,duplicate_or_known_result_rate,revision_count,root_count,duplicate_or_known_count,formal_template_count,interpretation
+all,9,1.0,0.2222222222222222,0.6666666666666666,0.1111111111111111,1.0,0.2857142857142857,0.0,0.5555555555555556,2,7,5,1,Finite evidence and infrastructure metrics; neither novelty nor a general lower bound is established.
+A,4,1.0,0.25,0.75,0.0,1.0,0.3333333333333333,0.0,0.0,1,3,0,0,Finite evidence and infrastructure metrics; neither novelty nor a general lower bound is established.
+B,4,1.0,0.25,0.75,0.0,1.0,0.3333333333333333,0.0,0.0,1,3,0,0,Finite evidence and infrastructure metrics; neither novelty nor a general lower bound is established.
+formal-smoke,1,1.0,0.0,0.0,1.0,0,0.0,0.0,1.0,0,1,1,1,Finite evidence and infrastructure metrics; neither novelty nor a general lower bound is established.

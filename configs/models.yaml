@@ -1,0 +1,11 @@
+# Metadata only. Runtime backend is chosen in default.yaml or --backend.
+mock:
+  model: deterministic-mock-v1
+  requires_api_key: false
+http:
+  protocol: openai-compatible-chat-completions
+  api_key_env: PNP_LLM_API_KEY
+  base_url_env: PNP_LLM_BASE_URL
+  model_env: PNP_LLM_MODEL
+  requires_api_key: true
+

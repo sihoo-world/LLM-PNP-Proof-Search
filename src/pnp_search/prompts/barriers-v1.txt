@@ -1,0 +1,5 @@
+Barrier context (not a detector of impossibility): Relativization limits methods that work uniformly relative to every oracle.
+Natural Proofs conditionally obstruct circuit lower-bound arguments satisfying the formal constructivity, largeness and usefulness conditions, under suitable pseudorandom-function assumptions.
+Algebrization identifies limitations that survive certain algebraic extensions of oracle access; its formal definition is subtler than merely using polynomials.
+A mention or absence of these features does not establish that an argument meets or avoids a barrier. Request expert review of applicability.
+

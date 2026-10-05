@@ -1,0 +1,8 @@
+Propose one candidate lemma about a Boolean-function complexity measure and one gate operation.
+The objective is a testable ingredient for circuit lower-bound research. Do not claim a resolution of P vs NP.
+Return one JSON object, without Markdown: title, domain, definitions (string array), assumptions (string array), lemma,
+motivation, proof_sketch, expected_implication, possible_failure_modes (string array), and bound.
+bound has operation (AND/OR/XOR/NOT), measure (requested primitive), relation (<=), rhs (safe arithmetic in M(f), M(g), integer constants).
+All f,g must have the same arity. State the quantifier explicitly. Explain why an operation bound alone need not imply a circuit lower bound.
+Do not include Python code, Lean source, status labels, or claims that verification already occurred.
+

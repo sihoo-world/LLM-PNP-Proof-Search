@@ -1,0 +1,82 @@
+{
+  "all": {
+    "total_candidates": 9,
+    "status_counts": {
+      "empirically_survived": 6,
+      "falsified": 2,
+      "formally_verified": 1
+    },
+    "parse_success_rate": 1.0,
+    "falsification_rate": 0.2222222222222222,
+    "empirical_survival_rate": 0.6666666666666666,
+    "formal_verification_rate": 0.1111111111111111,
+    "revision_survival_rate": 1.0,
+    "average_revisions": 0.2857142857142857,
+    "barrier_flag_rate": 0.0,
+    "duplicate_or_known_result_rate": 0.5555555555555556,
+    "revision_count": 2,
+    "root_count": 7,
+    "duplicate_or_known_count": 5,
+    "formal_template_count": 1,
+    "interpretation": "Finite evidence and infrastructure metrics; neither novelty nor a general lower bound is established."
+  },
+  "A": {
+    "total_candidates": 4,
+    "status_counts": {
+      "empirically_survived": 3,
+      "falsified": 1
+    },
+    "parse_success_rate": 1.0,
+    "falsification_rate": 0.25,
+    "empirical_survival_rate": 0.75,
+    "formal_verification_rate": 0.0,
+    "revision_survival_rate": 1.0,
+    "average_revisions": 0.3333333333333333,
+    "barrier_flag_rate": 0.0,
+    "duplicate_or_known_result_rate": 0.0,
+    "revision_count": 1,
+    "root_count": 3,
+    "duplicate_or_known_count": 0,
+    "formal_template_count": 0,
+    "interpretation": "Finite evidence and infrastructure metrics; neither novelty nor a general lower bound is established."
+  },
+  "B": {
+    "total_candidates": 4,
+    "status_counts": {
+      "empirically_survived": 3,
+      "falsified": 1
+    },
+    "parse_success_rate": 1.0,
+    "falsification_rate": 0.25,
+    "empirical_survival_rate": 0.75,
+    "formal_verification_rate": 0.0,
+    "revision_survival_rate": 1.0,
+    "average_revisions": 0.3333333333333333,
+    "barrier_flag_rate": 0.0,
+    "duplicate_or_known_result_rate": 0.0,
+    "revision_count": 1,
+    "root_count": 3,
+    "duplicate_or_known_count": 0,
+    "formal_template_count": 0,
+    "interpretation": "Finite evidence and infrastructure metrics; neither novelty nor a general lower bound is established."
+  },
+  "formal-smoke": {
+    "total_candidates": 1,
+    "status_counts": {
+      "formally_verified": 1
+    },
+    "parse_success_rate": 1.0,
+    "falsification_rate": 0.0,
+    "empirical_survival_rate": 0.0,
+    "formal_verification_rate": 1.0,
+    "revision_survival_rate": 0,
+    "average_revisions": 0.0,
+    "barrier_flag_rate": 0.0,
+    "duplicate_or_known_result_rate": 1.0,
+    "revision_count": 0,
+    "root_count": 1,
+    "duplicate_or_known_count": 1,
+    "formal_template_count": 1,
+    "interpretation": "Finite evidence and infrastructure metrics; neither novelty nor a general lower bound is established."
+  }
+}

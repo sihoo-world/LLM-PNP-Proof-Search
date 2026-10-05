@@ -1,0 +1,21 @@
+{
+  "theorem": "PNPResearchGenerated.bool_and_comm",
+  "formal_statement": "∀ a b : Bool, (a && b) = (b && a)",
+  "source_sha256": "20bdf27cceed616b87c621c447b91220f04d278cca57d095083f0405db8a60db",
+  "formalization_review_required": true,
+  "mathlib_imported": false,
+  "source_path": "C:\\Users\\ksil7\\OneDrive\\문서\\ChatGPT\\LLM-PNP-Proof-Search\\experiments\\results\\validated-mvp-20261004T165808Z-0d2fb19d\\lean\\lean-check-furteinc\\Candidate.lean",
+  "tool_version": "Lake version 5.0.0-src+797c613 (Lean version 4.24.0)",
+  "tool_version_returncode": 0,
+  "command": [
+    "C:\\Users\\ksil7\\OneDrive\\문서\\ChatGPT\\LLM-PNP-Proof-Search\\.tools\\lean-4.24.0-windows\\bin\\lake.exe",
+    "-f",
+    "lakefile.core.toml",
+    "env",
+    "lean",
+    "C:\\Users\\ksil7\\OneDrive\\문서\\ChatGPT\\LLM-PNP-Proof-Search\\experiments\\results\\validated-mvp-20261004T165808Z-0d2fb19d\\lean\\lean-check-furteinc\\Candidate.lean"
+  ],
+  "returncode": 0,
+  "stdout": "'PNPResearchGenerated.bool_and_comm' does not depend on any axioms\n",
+  "stderr": ""
+}

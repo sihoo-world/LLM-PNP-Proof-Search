@@ -1,0 +1,9 @@
+seed: 42
+n: 3
+max_cases: 1000000
+max_revisions: 1
+groups: [A, B]
+backend: mock
+output_dir: experiments/runs
+lean: false
+
